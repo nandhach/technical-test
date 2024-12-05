@@ -1,0 +1,59 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phone": "08123456789"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "phone": "08123456780"
+    },
+    {
+      "id": "6929",
+      "name": "pat",
+      "phone": "081salahsatusalahsemua"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Kuota 10 GB",
+      "price": 10000
+    },
+    {
+      "id": "2",
+      "name": "Kuota Haji",
+      "price": 20000
+    }
+  ],
+  "transactions": [
+    {
+      "id": "2",
+      "customerId": 1,
+      "productId": 2
+    },
+    {
+      "id": "dc46",
+      "customerId": "6929",
+      "productId": "1"
+    },
+    {
+      "id": "7ca6",
+      "customerId": "2",
+      "productId": "1"
+    },
+    {
+      "id": "3e4c",
+      "customerId": "6929",
+      "productId": "2"
+    }
+  ],
+  "auth": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
